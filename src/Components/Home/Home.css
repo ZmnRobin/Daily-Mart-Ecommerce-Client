@@ -1,0 +1,17 @@
+.search-field{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.input{
+    width: 370px;
+    border-radius: 5px;
+}
+.spinner{
+    margin-top: 40px;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    margin: 30px;
+}

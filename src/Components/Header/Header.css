@@ -1,0 +1,13 @@
+.nav-content{
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+}
+.nav-content:hover{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+.btn{
+    margin-left: 14px;
+}
